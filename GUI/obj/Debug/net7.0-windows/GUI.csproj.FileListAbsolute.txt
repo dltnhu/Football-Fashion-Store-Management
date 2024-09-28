@@ -1,0 +1,439 @@
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.exe
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.pdb
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.pdb
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.pdb
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.pdb
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.pdb
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.Properties.Resources.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.LoginGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TrangChuGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhanQuyenTab.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienTab.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.DanhMucSanPhamTab.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamModule.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamTab.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueGUI.resources
+D:\C#_Workspace\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.exe
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.DanhMucSanPhamTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.LoginGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhanQuyenTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TrangChuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.BanHangFrom.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.HoaDonForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.QuanLyHoaDonForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.SoLuongDonHangForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.KhachHangForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.themKhachHang.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.exe
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.BanHangFrom.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.DanhMucSanPhamTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.HoaDonForm.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.KhachHangForm.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.LoginGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhanQuyenTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.Properties.Resources.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.QuanLyHoaDonForm.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.SoLuongDonHangForm.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.themKhachHang.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TrangChuGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KhuyenMaiGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KhuyenMaiModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhaCungCapGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhaCungCapModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhieuNhapGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhieuNhapModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhapHangTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietPhieuNhapGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThongKeGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.exe
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.BanHangFrom.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietPhieuNhapGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.DanhMucSanPhamTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.HoaDonForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.KhachHangForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KhuyenMaiGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KhuyenMaiModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.LoginGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhaCungCapGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhaCungCapModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhapHangTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhanQuyenTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhieuNhapGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhieuNhapModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.QuanLyHoaDonForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.SoLuongDonHangForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.themKhachHang.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThongKeGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TrangChuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.HoaDonModel.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.exe
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.BanHangFrom.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietPhieuNhapGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.DanhMucSanPhamTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.HoaDonForm.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.HoaDonModel.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.KhachHangForm.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KhuyenMaiGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KhuyenMaiModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.LoginGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhaCungCapGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhaCungCapModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhapHangTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhanQuyenTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhieuNhapGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhieuNhapModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.Properties.Resources.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.QuanLyHoaDonForm.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamTab.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.SoLuongDonHangForm.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.themKhachHang.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThongKeGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuModule.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TrangChuGUI.resources
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\ref\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.exe
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.deps.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.runtimeconfig.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\GUI.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\BUS.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DTO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\bin\Debug\net7.0-windows\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.BanHangFrom.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChatLieuModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietPhieuNhapGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietQuyenModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChiTietSanPhamModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ChucNangModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.DanhMucSanPhamTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.HoaDonForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.HoaDonModel.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.KhachHangForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KhuyenMaiGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KhuyenMaiModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.KichCoModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.LoginGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.MauSacModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhaCungCapGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhaCungCapModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhanVienTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhapHangTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.NhomQuyenModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhanQuyenTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhieuNhapGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.PhieuNhapModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.QuanLyHoaDonForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.SanPhamTab.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.SoLuongDonHangForm.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TaiKhoanModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TheLoaiModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\WindowsFormsApp3.GUI.themKhachHang.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThongKeGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThueModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.ThuongHieuModule.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.TrangChuGUI.resources
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\refint\GUI.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\GUI.genruntimeconfig.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\GUI\obj\Debug\net7.0-windows\ref\GUI.dll

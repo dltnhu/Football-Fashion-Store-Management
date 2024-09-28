@@ -1,0 +1,90 @@
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.AssemblyReference.cache
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfoInputs.cache
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfo.cs
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CoreCompileInputs.cache
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.deps.json
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.pdb
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.pdb
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CopyComplete
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\refint\DAO.dll
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.pdb
+D:\C#_Workspace\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\ref\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.deps.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\refint\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\ref\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.deps.json
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.AssemblyReference.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfoInputs.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfo.cs
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CoreCompileInputs.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CopyComplete
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\refint\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\ref\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.deps.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\refint\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\ref\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.deps.json
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.AssemblyReference.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfoInputs.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfo.cs
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CoreCompileInputs.cache
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CopyComplete
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\refint\DAO.dll
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.pdb
+D:\HK1_Nam3-2023-2024\Công nghệ phần mềm\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\ref\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.deps.json
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\bin\Debug\net7.0\DTO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.csproj.CopyComplete
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\refint\DAO.dll
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\DAO.pdb
+C:\Users\DELL\Desktop\CuaHangDaBanhPOS\CuaHangDaBanhPOS\CuaHangDaBanhPOS\DAO\obj\Debug\net7.0\ref\DAO.dll

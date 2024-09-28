@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BanHangFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChatLieuGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChatLieuModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChiTietPhieuNhapGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChiTietQuyenGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChiTietQuyenModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChiTietSanPhamGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChiTietSanPhamModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChucNangGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChucNangModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DanhMucSanPhamTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDonModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhachHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhuyenMaiGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KhuyenMaiModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KichCoGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KichCoModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MauSacGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MauSacModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhaCungCapGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhaCungCapModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVienGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVienModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVienTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapHangTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhomQuyenGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhomQuyenModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhanQuyenTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhieuNhapGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhieuNhapModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QuanLyHoaDonForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SanPhamGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SanPhamModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SanPhamTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SoLuongDonHangForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoanGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoanModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TheLoaiGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TheLoaiModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="themKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongKeGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThueGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThueModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThuongHieuGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThuongHieuModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrangChuGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
