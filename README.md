@@ -1,6 +1,6 @@
 # Football Fashion Store Management System
 
-## I. Introduction
+## Introduction
 
 ### 1. Reasons for Choosing the Topic
 
